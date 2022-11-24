@@ -21,17 +21,6 @@ You need to have python installed in your system. Then you can do "python manage
 | Password: group1    | Password: group1      | Password: Group1 |
 
 
-## Top Contributors
-
-1.  Rakibul Hassan Rajib
-2.  Udipta Mazumder 
-3. Mahmud Hassan Rabby
-4. Misbah Ahmed Shaikat
-5. Hasan Ahmed
-6. Md Rakib Hossain
-7. Tamima Sigma
-
-
 ## Screenshots
 ![Screenshot (111)](https://user-images.githubusercontent.com/79998879/149210218-04b77330-25a3-4675-8be9-ee74d326f8d5.png)
 ![Screenshot (136)](https://user-images.githubusercontent.com/79998879/149210324-04bd20af-39e2-48bd-ac10-c6628ec4dd04.png)
